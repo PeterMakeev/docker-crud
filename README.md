@@ -32,4 +32,4 @@
 
 * Удаление контейнера по имени:
 
-```docker rm my_first_dockerfile```
+```docker rm stocks_products_container```
